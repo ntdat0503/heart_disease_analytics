@@ -3,7 +3,7 @@ PHÂN TÍCH VÀ DỰ ĐOÁN NGUY CƠ MẮC BỆNH SUY TIM
 
 > Dự án phân tích dữ liệu y tế và xây dựng mô hình Machine Learning dự đoán nguy cơ mắc bệnh tim sử dụng Apache Spark (PySpark), với trực quan hóa dữ liệu trên Power BI.
 
-1. Tổng quan dự án
+# Tổng quan dự án
   Bệnh tim mạch (CVDs) là nguyên nhân gây tử vong hàng đầu trên toàn cầu, cướp đi sinh mạng khoảng **17,9 triệu người mỗi năm**, chiếm 31% tổng số ca tử vong toàn thế giới. Trong đó, 4/5 trường hợp tử vong là do nhồi máu cơ tim và đột quỵ.
   Dự án này xây dựng một pipeline phân tích dữ liệu và học máy hoàn chỉnh nhằm:
 - Phân tích các yếu tố lâm sàng ảnh hưởng đến nguy cơ mắc bệnh tim
@@ -11,7 +11,7 @@ PHÂN TÍCH VÀ DỰ ĐOÁN NGUY CƠ MẮC BỆNH SUY TIM
 - Tối ưu hóa siêu tham số với Optuna để cải thiện hiệu năng mô hình
 - Trực quan hóa toàn bộ kết quả phân tích trên Power BI Dashboard
 
-2. Bộ dữ liệu
+# Bộ dữ liệu
 ### Nguồn dữ liệu
   Bộ dữ liệu được tổng hợp từ **5 nguồn dữ liệu** bệnh tim nổi tiếng:
 
