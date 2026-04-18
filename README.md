@@ -286,7 +286,7 @@ pip install pyspark findspark optuna pandas seaborn matplotlib
 - Nguy cơ mắc bệnh tim tăng rõ từ độ tuổi 50 trở lên
 
 **Hướng phát triển tiếp theo:**
-- Thử nghiệm XGBoost và LightGBM để so sánh
+- Thử nghiệm thêm các mô hình Machine Learning khác
 - Áp dụng SMOTE nếu mất cân bằng dữ liệu tăng
 - Triển khai mô hình thành REST API phục vụ hệ thống cảnh báo sớm
 - Mở rộng tích hợp dữ liệu thời gian thực từ thiết bị đeo tay
