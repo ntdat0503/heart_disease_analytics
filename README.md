@@ -12,7 +12,7 @@ PHÂN TÍCH VÀ DỰ ĐOÁN NGUY CƠ MẮC BỆNH SUY TIM
 - Trực quan hóa toàn bộ kết quả phân tích trên Power BI Dashboard
 
 2. Bộ dữ liệu
-a) Nguồn dữ liệu
+### Nguồn dữ liệu
   Bộ dữ liệu được tổng hợp từ **5 nguồn dữ liệu** bệnh tim nổi tiếng:
 
 | Nguồn | Số mẫu |
@@ -51,7 +51,7 @@ a) Nguồn dữ liệu
 
 ---
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 ```
 Python 3.11
@@ -67,7 +67,7 @@ Google Colab         — Môi trường thực thi
 
 ---
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 heart-disease-analytics/
@@ -91,7 +91,7 @@ heart-disease-analytics/
 
 ---
 
-## ⚙️ Quy trình thực hiện
+## Quy trình thực hiện
 
 ### 1. Khởi tạo môi trường Spark
 
@@ -176,7 +176,7 @@ Best Recall Score = 0.8993
 
 ---
 
-## 📈 Kết quả
+## Kết quả
 
 ### So sánh các mô hình (trước tối ưu hóa)
 
@@ -224,7 +224,7 @@ Do đó, tối đa hóa Recall để giảm thiểu FN là ưu tiên số 1 tron
 
 ---
 
-## 📊 Trực quan hóa Power BI
+## Trực quan hóa bằng Power BI
 
 Dashboard được xây dựng trên **Power BI Desktop** gồm 3 trang:
 
@@ -248,7 +248,7 @@ Dashboard được xây dựng trên **Power BI Desktop** gồm 3 trang:
 
 ---
 
-## 🚀 Hướng dẫn chạy
+## Hướng dẫn chạy
 
 ### Yêu cầu môi trường
 
@@ -271,7 +271,7 @@ pip install pyspark findspark optuna pandas seaborn matplotlib
 
 ---
 
-## 🎯 Kết luận
+## Kết luận
 
 **Mô hình được chọn:** Random Forest sau tối ưu hóa Optuna
 
@@ -293,7 +293,7 @@ pip install pyspark findspark optuna pandas seaborn matplotlib
 
 ---
 
-## 👤 Tác giả
+## Tác giả
 
 Dự án được thực hiện như một bài tập phân tích dữ liệu thực tế, kết hợp kỹ năng:
 - **Data Analysis:** EDA, thống kê mô tả, phân tích tương quan
