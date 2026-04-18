@@ -79,12 +79,10 @@ heart-disease-analytics/
 │   └── heart_disease_analysis.ipynb # Notebook phân tích chính
 │
 ├── powerbi/
-│   └── HeartDisease_Dashboard.pbix  # File Power BI Dashboard
+│   └── heart disease.pbix  # File Power BI Dashboard
 │
 ├── images/
-│   ├── dashboard_page1.png          # Tổng quan dữ liệu
-│   ├── dashboard_page2.png          # Phân tích đặc trưng
-│   └── dashboard_page3.png          # Kết quả mô hình
+│   └── Heart Disease Analytics Image
 │
 └── README.md
 ```
