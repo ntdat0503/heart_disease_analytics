@@ -281,8 +281,8 @@ pip install pyspark findspark optuna pandas seaborn matplotlib
 - Cải thiện đáng kể so với baseline sau tối ưu hóa
 
 **Phát hiện quan trọng từ phân tích:**
-- `ST_Slope`, `ChestPainType`, `ExerciseAngina` là 3 yếu tố dự báo mạnh nhất
-- Bệnh nhân `ASY` (không có triệu chứng đau ngực) chiếm đa số ca bệnh tim — nhấn mạnh tầm quan trọng của tầm soát định kỳ
+- `ST_Slope` là yếu dự báo mạnh nhất, đặc trưng quan trọng nhất
+- Bệnh nhân `ASY` (không có triệu chứng đau ngực) chiếm đa số ca bệnh tim —> nhấn mạnh tầm quan trọng của tầm soát định kỳ
 - Nguy cơ mắc bệnh tim tăng rõ từ độ tuổi 50 trở lên
 
 **Hướng phát triển tiếp theo:**
