@@ -76,13 +76,13 @@ heart-disease-analytics/
 │   └── heart.csv                    # Bộ dữ liệu gốc
 │
 ├── notebooks/
-│   └── heart_disease_analysis.ipynb # Notebook phân tích chính
+│   └── heart_disease_analysis.ipynb # Code ứng dụng Machine Learnin
 │
 ├── powerbi/
 │   └── heart disease.pbix  # File Power BI Dashboard
 │
 ├── images/
-│   └── Heart Disease Analytics Image
+│   └── Heart Disease Analytics Image # Hình ảnh các báo cáo trên Power BI
 │
 └── README.md
 ```
