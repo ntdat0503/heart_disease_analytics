@@ -297,7 +297,7 @@ Dự án được thực hiện như một bài tập phân tích dữ liệu th
 - **Data Analysis:** EDA, thống kê mô tả, phân tích tương quan
 - **Big Data:** Xử lý dữ liệu với Apache Spark (PySpark)
 - **Machine Learning:** Classification, Feature Engineering, Hyperparameter Tuning
-- **Data Visualization:** Power BI Dashboard (3 trang, đơn sắc xanh chuyên nghiệp)
+- **Data Visualization:** Power BI Dashboard (3 trang, đơn sắc xanh)
 
 ---
 
