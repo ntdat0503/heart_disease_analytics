@@ -303,10 +303,7 @@ Dự án được thực hiện như một bài tập phân tích dữ liệu th
 
 ---
 
-## 📄 Giấy phép
-
 Dự án sử dụng bộ dữ liệu công khai từ [Kaggle — Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) theo giấy phép Open Database License.
 
 ---
 
-*README được viết để phục vụ mục đích học thuật và thể hiện năng lực phân tích dữ liệu.*
